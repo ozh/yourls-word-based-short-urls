@@ -1,12 +1,12 @@
-Plugin for YOURLS: Word Based Short URLs
+# Plugin for YOURLS: Word Based Short URLs [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 
 
-# What for
+## What for
 
 Generate memorable "short" URLs with adjectives and nouns, such as `http://yoursite/GreenPowerfulBox` (well, they will be less shorter, but more memorable :)
 
 
-# How to
+## How to
 
 * In `/user/plugins`, create a new folder named `word-based-short-urls`
 * Drop these files in that directory
@@ -14,7 +14,7 @@ Generate memorable "short" URLs with adjectives and nouns, such as `http://yours
 * Have fun
 
 
-# FAQ
+## FAQ
 
 1. "it doesn't work!"
 	* Sorry, it does for me.
@@ -23,6 +23,6 @@ Generate memorable "short" URLs with adjectives and nouns, such as `http://yours
 	* Sure. Replace the two text files with your own, one word per line.
 
 
-# License
+## License
 
 Do whatever the hell you want with it.
